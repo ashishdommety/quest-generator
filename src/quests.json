@@ -1,0 +1,242 @@
+{
+  "quests": [
+    {
+      "title": "Go running 5 times this week",
+      "icon": "🏃",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Meditate every day this week",
+      "icon": "🧘",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Read for 30 minutes daily",
+      "icon": "📖",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Write a journal entry each day",
+      "icon": "📓",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Cook a new recipe 3 times this week",
+      "icon": "🍳",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Drink 2L of water every day",
+      "icon": "💧",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Go for a 20-minute walk daily",
+      "icon": "🚶",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Do 3 strength workouts this week",
+      "icon": "🏋️",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Practice a musical instrument 4 times",
+      "icon": "🎸",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Go screen-free 1 hour before bed every night",
+      "icon": "📵",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Sleep 8 hours every night",
+      "icon": "😴",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Try 3 different types of fruits",
+      "icon": "🍎",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Do yoga 4 times this week",
+      "icon": "🧘‍♀️",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Compliment someone each day",
+      "icon": "😊",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Practice deep breathing daily",
+      "icon": "🌬️",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Go hiking or spend time in nature twice",
+      "icon": "🌲",
+      "difficulty": "medium"
+    },
+    { "title": "Stretch every morning", "icon": "🤸", "difficulty": "easy" },
+    {
+      "title": "Limit social media to 30 mins daily",
+      "icon": "📱",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Reach 10,000 steps each day",
+      "icon": "👟",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Listen to a new podcast episode daily",
+      "icon": "🎧",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Plan your day every morning",
+      "icon": "🗓️",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Declutter one room per day",
+      "icon": "🧹",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Try a new hobby or skill this week",
+      "icon": "🎨",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Say no to added sugar for a week",
+      "icon": "🚫🍭",
+      "difficulty": "hard"
+    },
+    {
+      "title": "No junk food for the week",
+      "icon": "🚫🍔",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Write down 3 things you're grateful for daily",
+      "icon": "🙏",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Call or message 3 friends this week",
+      "icon": "📞",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Donate or give away something each day",
+      "icon": "🎁",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Practice 10 minutes of mindfulness daily",
+      "icon": "🧠",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Try a cold shower 3 times this week",
+      "icon": "🚿",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Spend 30 mins learning something new daily",
+      "icon": "🧑‍🏫",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Avoid caffeine after noon each day",
+      "icon": "☕",
+      "difficulty": "medium"
+    },
+    { "title": "Eat a salad every day", "icon": "🥗", "difficulty": "easy" },
+    {
+      "title": "Floss every day this week",
+      "icon": "🦷",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Watch one inspiring TED talk daily",
+      "icon": "🎥",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Limit screen time to 2 hours outside work",
+      "icon": "🖥️",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Go to bed by 10 PM each night",
+      "icon": "🛌",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Wake up before 6 AM each day",
+      "icon": "⏰",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Do 100 push-ups total this week",
+      "icon": "💪",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Do 300 squats this week",
+      "icon": "🏋️‍♂️",
+      "difficulty": "medium"
+    },
+    { "title": "Take a photo every day", "icon": "📸", "difficulty": "easy" },
+    {
+      "title": "Avoid processed foods all week",
+      "icon": "🚫🥫",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Volunteer or help someone this week",
+      "icon": "🤝",
+      "difficulty": "medium"
+    },
+    {
+      "title": "No snooze button for a week",
+      "icon": "🔔",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Clean your digital inbox",
+      "icon": "📬",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Spend 15 minutes sunbathing daily",
+      "icon": "☀️",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Practice a language for 10 minutes daily",
+      "icon": "🈷️",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Write a short story or poem",
+      "icon": "✍️",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Practice a handstand or balance pose daily",
+      "icon": "🤸‍♂️",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Try a new form of cardio (cycling, swimming, etc.)",
+      "icon": "🚴",
+      "difficulty": "medium"
+    }
+  ]
+}
